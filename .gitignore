@@ -1,0 +1,33 @@
+# Virtual environment
+venv/
+.env/
+
+# Byte-compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Log files
+*.log
+logs/
+
+# Environment variables
+.env
+*.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Dependencies
+requirements.txt
+
+# Cached files
+*.cache
+*.pickle
+
+# Colab-specific files
+.colab/
